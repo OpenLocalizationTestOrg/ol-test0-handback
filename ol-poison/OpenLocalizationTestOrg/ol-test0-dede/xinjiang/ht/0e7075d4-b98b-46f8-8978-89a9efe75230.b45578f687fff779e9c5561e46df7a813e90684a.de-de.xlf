@@ -9,6 +9,7 @@
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
       <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7891e593a52db9a1c579ab30aecabf5b2dcadde0</xliffext:olskeletonhash>
       <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ae598e54cbe64dd0df1a8a2047478694d44b9999</xliffext:olxliffhash>
+      <xliffext:poisonError xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Targeting source file commit 49fed3fa8e88eca86cc43e33c7b3773253161535 is lower than latest handed back source file commit 1ce7dd999bd5294e016798699ec942baeada9458</xliffext:poisonError>
     </header>
     <body>
       <group id="content" extype="content">
